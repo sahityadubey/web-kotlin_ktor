@@ -29,22 +29,22 @@ API ENDPOINTS 🌐
 
 Sample response:
 {
-  "name": "Carl",
-  "description": "A cute brown rabbit",
-  "imageUrl": "http://10.238.125.76:9090/rabbits/rabbit1.jpg"
+"name": "Carl",
+"description": "A cute brown rabbit",
+"imageUrl": "http://10.238.125.76:9090/rabbits/rabbit1.jpg"
 }
 
 PROJECT STRUCTURE 📂
 src/
-  main/
-    kotlin/
-      data.model/      # Data classes
-      plugins/         # Ktor plugins (Serialization, Monitoring)
-      routes/          # API endpoint definitions
-      Application.kt   # Server entry point
-    resources/
-      application.conf # Server configuration
-      logback.xml      # Logging configuration
+main/
+kotlin/
+data.model/      # Data classes
+plugins/         # Ktor plugins (Serialization, Monitoring)
+routes/          # API endpoint definitions
+Application.kt   # Server entry point
+resources/
+application.conf # Server configuration
+logback.xml      # Logging configuration
 
 CONFIGURATION ⚙️
 - Update BASE_URL in RabbitRoutes.kt for your environment

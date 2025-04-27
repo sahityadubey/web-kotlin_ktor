@@ -1,0 +1,117 @@
+Sahitya Dubey
+
+
+sahityadubey@outlook.com
+9752291869
+Bengaluru
+https://www.linkedin.com/in/sahityadubey/
+https://github.com/sahityadubey
+
+
+
+------------------------
+Senior Software Engineer
+
+
+------------------------
+<!--StartFragment-->To apply my mobile development expertise to deliver innovative solutions, enhance user experiences, and contribute to organizational success and personal growth.<!--EndFragment-->
+
+
+EXPERIENCE SUMMARY
+------------------------
+-7.5+ years of IT experience in end-to-end mobile application development using Android, Kotlin, Java, and Xamarin.
+-Skilled in UI design with Android SDK/XML, Jetpack libraries (LiveData, MVVM, Data Binding), and strong in data structures, design patterns (MVVM, Singleton, SOLID), and Dependency Injection (Dagger 2).
+-Lead code quality initiatives, recommending 10+ performance improvements, and drive inter-team mobile guild meetings. Manage 7+ internal libraries and oversee Android/iOS app deployment, including code-signing and distribution via TestFlight and Play Console.
+
+
+
+PROJECT CONTRIBUTION
+------------------------
+Analytics Android SDK
+<!--StartFragment-->Android analytics for the organization, including multiple target libraries such as Amplitude, Segment, and AppCenter.<!--EndFragment--><!--EndFragment-->
+
+
+BLE Core Android SDK
+<!--StartFragment-->Android BLE library for the organization, used to connect and communicate with multiple locks over BLE from Android apps.<!--EndFragment-->
+
+
+Platform Template Android SDK
+<!--StartFragment--> This project is a library of generic, reusable components designed for global use by various Cargill mobility teams <!--EndFragment-->
+
+
+Crescendo Global Xamarin App
+<!--StartFragment--> To Manage farmers roles with other consultants.  <!--EndFragment-->
+
+
+
+
+
+Education
+------------------------
+Study Program
+Institute of Technology and Management
+07/2013 - 05/2017
+Gwalior, M.P.
+Courses
+- CSE, B.E 
+
+
+
+
+
+Skills
+------------------------
+-Android
+-Kotlin
+-Java
+-RxJava
+-BLE-Gatt
+-Xamarin
+-MVP
+-MVVM
+-Dagger2
+-Data Structure
+-Solid Principles
+-Jetpack
+-Retrofit
+-Git
+-Room
+
+
+
+Personal Projects
+------------------------
+Schlage Home (Allegion)
+11/2020 - Present
+- <!--StartFragment--> <b>Developed and released 5 distinct products using Kotlin, Bluetooth GATT, MQTT, and Jetpack components.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Enhanced app performance by 32% through profiling tools, Kotlin optimizations, and image caching.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Implemented multiple security layers to prevent MITM and other attacks.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Improved unit test coverage by 24%, maintaining high code quality standards.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Leading Android OS upgrades from Android 12 and above.Managing a team of 4, overseeing deployments and agile activities.</b> <!--EndFragment--> 
+
+
+Dairy Enteligen(Cargill)
+10/2017 - 10/2020
+- <!--StartFragment--> <b>Independently managed Android app and backend development.Integrated 13 dairy tools within the app.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Supported deployment across 21+ countries, handling localization and Google Play Console releases. </b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Resolved 15+ production performance issues, leading an improvement initiative to optimize app performance.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Migrated app architecture to MVVM, implementing best practices to reduce code duplication and redundancy, while increasing code coverage.</b> <!--EndFragment--> 
+- <!--StartFragment--> <b>Led agile ceremonies from requirements analysis to final delivery. Managed a team of 3 developers since 2019.</b> <!--EndFragment--> 
+
+
+
+
+
+Work History
+------------------------
+Allegion
+11/2020 - Present
+
+
+Cargill
+06/2017 - 10/2020
+
+
+
+
+

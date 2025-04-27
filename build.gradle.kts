@@ -1,18 +1,17 @@
+val ktor_version: String by project
+val kotlin_version: String by project
+val logback_version: String by project
 
 plugins {
-    alias(libs.plugins.kotlin.jvm)
-    alias(libs.plugins.ktor)
-    alias(libs.plugins.kotlin.plugin.serialization)
+    application
+    kotlin("jvm") version "1.5.30"
+    id("org.jetbrains.kotlin.plugin.serialization") version "1.5.31"
 }
 
-group = "com.example"
+group = "com.plcoding"
 version = "0.0.1"
-
 application {
-    mainClass = "io.ktor.server.netty.EngineMain"
-
-    val isDevelopment: Boolean = project.ext.has("development")
-    applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+    mainClass.set("io.ktor.server.netty.EngineMain")
 }
 
 repositories {
@@ -20,13 +19,11 @@ repositories {
 }
 
 dependencies {
-    implementation(libs.ktor.server.content.negotiation)
-    implementation(libs.ktor.server.core)
-    implementation(libs.ktor.serialization.kotlinx.json)
-    implementation(libs.ktor.server.call.logging)
-    implementation(libs.ktor.server.host.common)
-    implementation(libs.ktor.server.netty)
-    implementation(libs.logback.classic)
-    testImplementation(libs.ktor.server.test.host)
-    testImplementation(libs.kotlin.test.junit)
+    implementation("io.ktor:ktor-server-core:$ktor_version")
+    implementation("io.ktor:ktor-serialization:$ktor_version")
+    implementation("io.ktor:ktor-server-host-common:$ktor_version")
+    implementation("io.ktor:ktor-server-netty:$ktor_version")
+    implementation("ch.qos.logback:logback-classic:$logback_version")
+    testImplementation("io.ktor:ktor-server-tests:$ktor_version")
+    testImplementation("org.jetbrains.kotlin:kotlin-test:$kotlin_version")
 }
