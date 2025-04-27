@@ -15,7 +15,7 @@ TECHNOLOGIES 🛠️
 
 SETUP & RUN ▶️
 1. Clone the repository:
-   git clone https://github.com/your-username/rabbit-api.git
+   https://github.com/sahityadubey/web-kotlin_ktor.git
 
 2. Build the project:
    ./gradlew build
